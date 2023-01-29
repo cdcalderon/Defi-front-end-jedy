@@ -39,7 +39,7 @@ const AccountModal: React.FC<ModalProps> = ({ onDismiss }) => {
             </CardIcon>
             <StyledBalance>
               <Value value={getBalanceNumber(sushiBalance)} />
-              <Label text="PCHO Balance" />
+              <Label text="JEDY Balance" />
             </StyledBalance>
           </StyledBalanceWrapper>
         </div>
