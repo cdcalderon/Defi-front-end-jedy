@@ -66,7 +66,7 @@ const StakeXSushi: React.FC = () => {
               {totalSupply
                 ? `There are currently ${getBalanceNumber(
                     totalSupply,
-                  )} PCHO in the whole pool.`
+                  )} JEDY in the whole pool.`
                 : ''}
             </StyledInfo>
           </StyledCardWrapper>
